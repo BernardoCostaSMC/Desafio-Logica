@@ -22,9 +22,3 @@ O programa solicita que o usuário digite o nome do personagem e a quantidade de
 ## Pré-requisitos
 
 Para executar este programa, você precisa ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
-
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
